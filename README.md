@@ -76,6 +76,7 @@ PM:\> REAL   - Return to real mode (reboots)
 ```
 
 ## TESTING Version (Experimental)
+Note: Testing is no longer public and is used for testing features before they join stable.
 
 **Location**: `TESTING/` folder
 **Disk Image**: `TESTING/A86_TEST.img`
